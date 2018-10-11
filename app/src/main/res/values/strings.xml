@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">android_resources</string>
+
+    <string name="sample1">Javaのコードから</string>
+    <string name="sample2">%1$sが%2$d個ある</string>
+
+    <string name="sample3">レイアウトファイルから</string>
+    <string name="sample4"><u>リッチテキスト</u>が使えます</string>
+
+    <string name="sample5">早口言葉</string>
+    <string name="sample6">なまむぎなまごめなまたまご</string>
 </resources>
